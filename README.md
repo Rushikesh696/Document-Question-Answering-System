@@ -74,7 +74,7 @@ Converts text chunks into embeddings (vectors) so FAISS can perform semantic sim
 ##  Demo
 Here’s how the app looks:  
 
-![Document QA Demo](images/screenshot.png)
+![Document QA Demo](screenshot(96).png)
 
 ---
 
