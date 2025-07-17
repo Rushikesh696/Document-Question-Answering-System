@@ -69,9 +69,6 @@ Converts text chunks into embeddings (vectors) so FAISS can perform semantic sim
 3.  Ask your question in natural language.  
 4.  The app retrieves relevant chunks and uses a language model to generate the answer.  
 
----
-
----
 
 ## 🖥 Run Locally
 1. Clone this repository:
