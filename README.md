@@ -76,5 +76,5 @@ Converts text chunks into embeddings (vectors) so FAISS can perform semantic sim
 ## 🖥 Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Rushikesh696/document-qa-app.git
+   git clone (https://github.com/Rushikesh696/Document-Question-Answering-System)
    cd document-qa-app
