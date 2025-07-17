@@ -60,5 +60,5 @@ Here’s how the app looks:
 ## 🖥 Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<Rushikesh696>/document-qa-app.git
+   git clone https://github.com/Rushikesh696/document-qa-app.git
    cd document-qa-app
