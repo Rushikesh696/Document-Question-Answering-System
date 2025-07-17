@@ -38,4 +38,5 @@ The main objective of this project is to create an **intelligent document assist
 3.  Ask your question in natural language.  
 4.  The app retrieves relevant chunks and uses a language model to generate the answer.  
 
- 
+**screenshot of sample pdf**
+![Alt Text](images/screenshot.png)
