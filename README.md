@@ -40,6 +40,27 @@ The main objective of this project is to create an **intelligent document assist
 | **FAISS**                | Vector database for semantic search           |
 | **SentenceTransformers** | Encoding text chunks into vector embeddings   |
 
+#### Technologies  Role
+Python 
+The core programming language used to build the application logic and integrate all libraries seamlessly.
+
+Streamlit 
+Provides the web interface for uploading PDFs and asking questions, making the app interactive and user-friendly.
+
+Hugging Face Transformers 
+Supplies the pre-trained google/flan-t5-small NLP model to generate answers based on the retrieved context.
+
+LangChain 
+Handles splitting documents, creating retrieval pipelines, and combining context with questions for the model.
+
+PyPDF2 
+Reads and splits PDF files into text chunks that can be processed for semantic search.
+
+FAISS 
+Creates a vector database to store document chunks and retrieve the most relevant ones efficiently.
+
+SentenceTransformers 
+Converts text chunks into embeddings (vectors) so FAISS can perform semantic similarity searches.
 ---
 
 ##  How It Works
